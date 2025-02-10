@@ -19,7 +19,16 @@ This project is a Streamlit-based web app that allows users to upload PDF docume
 ├── rag.py               # Retrieves relevant chunks using embeddings
 └── README.md            # Project documentation
 ```
+---
 
+## 🧰 Requirements
+- Python 3.8 or higher
+- Streamlit
+- PyMuPDF (fitz)
+- Sentence Transformers
+- OpenAI API
+- python-dotenv
+  
 ---
 
 ## ⚙️ Setup and Installation
