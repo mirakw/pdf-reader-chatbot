@@ -85,22 +85,21 @@ The app will launch in your browser at `http://localhost:8501`.
 ---
 
 ## ✨ Future Enhancements
-- Add support for large PDFs using chunk-wise processing and external vector databases.
-- Explore integrating other RAG pipelines, such as FAISS or Pinecone for scalable retrieval.
-- Improve the chunking logic to handle structured data (tables, headers, etc.).
 
----
+Add support for large PDFs using chunk-wise processing and external vector databases.
 
-## 🧑‍💻 Contributing
-Contributions are welcome! Feel free to fork the project, submit pull requests, or suggest new features.
+Explore integrating other RAG pipelines, such as FAISS or Pinecone for scalable retrieval.
 
----
+Improve the chunking logic to handle structured data (tables, headers, etc.).
 
-## 📑 License
-This project is licensed under the [MIT License](LICENSE).
+Combine image processing (maybe too hard).
+
+Refine search/output quality.
+
+Refer to relevant page numbers at the end as a “For more information, refer to:” thing.
 
 ---
 
 ## 👨‍💻 Author
-Built by [Your Name](https://github.com/your-username).
+Built by Mira Kapoor Wadehra (https://github.com/mirakw).
 
